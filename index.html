@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Consulta de Número</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 2em; background: #f4f4f4; }
+    input[type="text"] { padding: 10px; font-size: 16px; width: 200px; }
+    button { padding: 10px 20px; font-size: 16px; cursor: pointer; }
+    .resultado { margin-top: 20px; font-size: 18px; }
+  </style>
+</head>
+<body>
+  <h2>Consulta tu número</h2>
+  <input type="text" id="inputNumero" placeholder="Ingresa tu número" />
+  <button onclick="consultarNumero()">Consultar</button>
+  <div class="resultado" id="resultado"></div>
+
+  <script>
+    let datos = [];
+
+    // Cargar el JSON (debe estar en el mismo directorio que este HTML)
+    fetch('datos1.json')
+      .then(response => response.json())
+      .then(data => {
+        datos = data;
+      });
+
+    function limpiarNumero(numero) {
+      numero = numero.replace(/\D/g, ''); // Solo números
+      if (numero.length === 8) {
+        return '569' + numero; // Agrega prefijo chileno si solo vienen 8 dígitos
+      } else if (numero.length === 9 && numero.startsWith('9')) {
+        return '56' + numero; // Agrega 56 si falta
+      } else if (numero.length === 11 && numero.startsWith('56')) {
+        return numero; // Ya completo
+      }
+      return null; // No válido
+    }
+
+    function consultarNumero() {
+      const input = document.getElementById('inputNumero').value;
+      const numeroFormateado = limpiarNumero(input);
+      const resultado = document.getElementById('resultado');
+
+      if (!numeroFormateado) {
+        resultado.innerHTML = '❌ Número no válido';
+        return;
+      }
+
+      const encontrado = datos.find(d => d.numero == numeroFormateado);
+
+      if (encontrado) {
+        resultado.innerHTML = `
+          ✅ Número encontrado<br>
+          Orden: <strong>${encontrado.orden}</strong><br>
+          Parcela: <strong>${encontrado.parcela}</strong>
+        `;
+      } else {
+        resultado.innerHTML = '❌ Número no encontrado';
+      }
+    }
+  </script>
+</body>
+</html>
