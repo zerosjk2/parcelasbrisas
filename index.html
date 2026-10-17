@@ -6,37 +6,36 @@
   <title>Consulta de Número</title>
   <style>
     body { font-family: Arial, sans-serif; text-align: center; padding: 2em; background: #f4f4f4; }
-    input[type="text"] { padding: 10px; font-size: 16px; width: 200px; }
-    button { padding: 10px 20px; font-size: 16px; cursor: pointer; }
-    .resultado { margin-top: 20px; font-size: 18px; }
+    input[type="text"] { padding: 10px; font-size: 16px; width: 220px; }
+    button { padding: 10px 20px; font-size: 16px; cursor: pointer; margin-left: 8px; }
+    .resultado { margin-top: 20px; font-size: 18px; background: white; padding: 15px; border-radius: 8px; display: inline-block; text-align: left; }
+    .resultado strong { color: #2c3e50; }
   </style>
 </head>
 <body>
   <h2>Consulta tu número</h2>
-  <input type="text" id="inputNumero" placeholder="Ingresa tu número" />
+  <input type="text" id="inputNumero" placeholder="Ingresa tu número (ej: 994338027)" />
   <button onclick="consultarNumero()">Consultar</button>
   <div class="resultado" id="resultado"></div>
 
   <script>
     let datos = [];
 
-    // Cargar el JSON (debe estar en el mismo directorio que este HTML)
     fetch('datos1.json')
       .then(response => response.json())
       .then(data => {
         datos = data;
+      })
+      .catch(err => {
+        document.getElementById('resultado').innerHTML = '❌ Error al cargar datos1.json';
       });
 
     function limpiarNumero(numero) {
-      numero = numero.replace(/\D/g, ''); // Solo números
-      if (numero.length === 8) {
-        return '569' + numero; // Agrega prefijo chileno si solo vienen 8 dígitos
-      } else if (numero.length === 9 && numero.startsWith('9')) {
-        return '56' + numero; // Agrega 56 si falta
-      } else if (numero.length === 11 && numero.startsWith('56')) {
-        return numero; // Ya completo
-      }
-      return null; // No válido
+      numero = numero.replace(/\D/g, '');
+      if (numero.length === 8) return '569' + numero;
+      if (numero.length === 9 && numero.startsWith('9')) return '56' + numero;
+      if (numero.length === 11 && numero.startsWith('56')) return numero;
+      return null;
     }
 
     function consultarNumero() {
@@ -49,13 +48,17 @@
         return;
       }
 
-      const encontrado = datos.find(d => d.numero == numeroFormateado);
+      const encontrado = datos.find(d => d.numero === numeroFormateado);
 
       if (encontrado) {
         resultado.innerHTML = `
-          ✅ Número encontrado<br>
-          Orden: <strong>${encontrado.orden}</strong><br>
-          Parcela: <strong>${encontrado.parcela}</strong>
+          ✅ Número encontrado<br><br>
+          <strong>Orden:</strong> ${encontrado.orden}<br>
+          <strong>Número:</strong> ${encontrado.numero}<br>
+          <strong>Parcela:</strong> ${encontrado.parcela}<br>
+          <strong>Código PDF:</strong> ${encontrado.codigo_pdf || '-'}<br>
+          <strong>Todos Códigos PDF:</strong> ${encontrado.todos_codigos_pdf || '-'}<br>
+          <strong>Notas:</strong> ${encontrado.notas || '-'}
         `;
       } else {
         resultado.innerHTML = '❌ Número no encontrado';
