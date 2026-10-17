@@ -1,0 +1,3458 @@
+[
+  {
+    "orden": 1,
+    "numero": "56994338027",
+    "parcela": 1,
+    "codigo_pdf": "1003",
+    "todos_codigos_pdf": "1003",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 2,
+    "numero": "56985191660",
+    "parcela": 4,
+    "codigo_pdf": "0002",
+    "todos_codigos_pdf": "0002",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 3,
+    "numero": "56996632665",
+    "parcela": 4,
+    "codigo_pdf": "0003",
+    "todos_codigos_pdf": "0003",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 4,
+    "numero": "56987801228",
+    "parcela": 7,
+    "codigo_pdf": "0004",
+    "todos_codigos_pdf": "0004",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 5,
+    "numero": "56995290071",
+    "parcela": 7,
+    "codigo_pdf": "0005",
+    "todos_codigos_pdf": "0005",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 6,
+    "numero": "56920516297",
+    "parcela": 11,
+    "codigo_pdf": "0006",
+    "todos_codigos_pdf": "0006",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 7,
+    "numero": "56975994961",
+    "parcela": 11,
+    "codigo_pdf": "0007",
+    "todos_codigos_pdf": "0007",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 8,
+    "numero": "56959063632",
+    "parcela": 12,
+    "codigo_pdf": "0008",
+    "todos_codigos_pdf": "0008",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 9,
+    "numero": "56933385906",
+    "parcela": 12,
+    "codigo_pdf": "0009",
+    "todos_codigos_pdf": "0009",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 11,
+    "numero": "56995294672",
+    "parcela": 13,
+    "codigo_pdf": "0011",
+    "todos_codigos_pdf": "0011",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 12,
+    "numero": "56953216044",
+    "parcela": 14,
+    "codigo_pdf": "0012",
+    "todos_codigos_pdf": "0012",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 13,
+    "numero": "56992252090",
+    "parcela": 15,
+    "codigo_pdf": "0013",
+    "todos_codigos_pdf": "0013",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 14,
+    "numero": "56995376025",
+    "parcela": 18,
+    "codigo_pdf": "0014",
+    "todos_codigos_pdf": "0014",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 15,
+    "numero": "56992701726",
+    "parcela": 18,
+    "codigo_pdf": "0015",
+    "todos_codigos_pdf": "0015",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 16,
+    "numero": "56995376026",
+    "parcela": 19,
+    "codigo_pdf": "0016",
+    "todos_codigos_pdf": "0016",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 17,
+    "numero": "56962045347",
+    "parcela": 19,
+    "codigo_pdf": "0017",
+    "todos_codigos_pdf": "0017",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 18,
+    "numero": "56930311521",
+    "parcela": 21,
+    "codigo_pdf": "0018",
+    "todos_codigos_pdf": "0018",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 19,
+    "numero": "56998867449",
+    "parcela": 21,
+    "codigo_pdf": "0019",
+    "todos_codigos_pdf": "0019",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 20,
+    "numero": "56993714284",
+    "parcela": 23,
+    "codigo_pdf": "0020",
+    "todos_codigos_pdf": "0020",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 21,
+    "numero": "56989845858",
+    "parcela": 24,
+    "codigo_pdf": "0021",
+    "todos_codigos_pdf": "0021",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 22,
+    "numero": "56985707368",
+    "parcela": 24,
+    "codigo_pdf": "0022",
+    "todos_codigos_pdf": "0022",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 23,
+    "numero": "56984416969",
+    "parcela": 28,
+    "codigo_pdf": "0023",
+    "todos_codigos_pdf": "0023",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 24,
+    "numero": "56983958712",
+    "parcela": 33,
+    "codigo_pdf": "0024",
+    "todos_codigos_pdf": "0024",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 25,
+    "numero": "56931771392",
+    "parcela": 33,
+    "codigo_pdf": "0025",
+    "todos_codigos_pdf": "0025",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 26,
+    "numero": "56933544639",
+    "parcela": 37,
+    "codigo_pdf": "0026",
+    "todos_codigos_pdf": "0026",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 27,
+    "numero": "56991907893",
+    "parcela": 39,
+    "codigo_pdf": "0027",
+    "todos_codigos_pdf": "0027",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 28,
+    "numero": "56975893716",
+    "parcela": 39,
+    "codigo_pdf": "0028",
+    "todos_codigos_pdf": "0028",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 29,
+    "numero": "56993164029",
+    "parcela": 40,
+    "codigo_pdf": "0029",
+    "todos_codigos_pdf": "0029",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 30,
+    "numero": "56995007918",
+    "parcela": 42,
+    "codigo_pdf": "0030",
+    "todos_codigos_pdf": "0030",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 31,
+    "numero": "56949738827",
+    "parcela": 42,
+    "codigo_pdf": "0031",
+    "todos_codigos_pdf": "0031",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 32,
+    "numero": "56999009918",
+    "parcela": 43,
+    "codigo_pdf": "0032",
+    "todos_codigos_pdf": "0032",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 33,
+    "numero": "56976252459",
+    "parcela": 43,
+    "codigo_pdf": "0033",
+    "todos_codigos_pdf": "0033",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 34,
+    "numero": "56983321350",
+    "parcela": 48,
+    "codigo_pdf": "0034",
+    "todos_codigos_pdf": "0034",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 35,
+    "numero": "56972207122",
+    "parcela": 48,
+    "codigo_pdf": "0035",
+    "todos_codigos_pdf": "0035",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 36,
+    "numero": "56959047767",
+    "parcela": 49,
+    "codigo_pdf": "0036",
+    "todos_codigos_pdf": "0036",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 37,
+    "numero": "56959179102",
+    "parcela": 49,
+    "codigo_pdf": "0037",
+    "todos_codigos_pdf": "0037",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 38,
+    "numero": "56940319183",
+    "parcela": 50,
+    "codigo_pdf": "0038",
+    "todos_codigos_pdf": "0038",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 39,
+    "numero": "56983773940",
+    "parcela": 50,
+    "codigo_pdf": "0039",
+    "todos_codigos_pdf": "0039",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 40,
+    "numero": "56988481943",
+    "parcela": 51,
+    "codigo_pdf": "0040",
+    "todos_codigos_pdf": "0040",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 41,
+    "numero": "56996981874",
+    "parcela": 51,
+    "codigo_pdf": "0041",
+    "todos_codigos_pdf": "0041",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 42,
+    "numero": "56985149928",
+    "parcela": 52,
+    "codigo_pdf": "0042",
+    "todos_codigos_pdf": "0042",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 43,
+    "numero": "56989918663",
+    "parcela": 52,
+    "codigo_pdf": "0043",
+    "todos_codigos_pdf": "0043",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 44,
+    "numero": "56994387412",
+    "parcela": 53,
+    "codigo_pdf": "0044",
+    "todos_codigos_pdf": "0044",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 45,
+    "numero": "56953131619",
+    "parcela": 53,
+    "codigo_pdf": "0045",
+    "todos_codigos_pdf": "0045",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 46,
+    "numero": "56994230513",
+    "parcela": 54,
+    "codigo_pdf": "0046",
+    "todos_codigos_pdf": "0046",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 47,
+    "numero": "56975245976",
+    "parcela": 54,
+    "codigo_pdf": "0047",
+    "todos_codigos_pdf": "0047",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 48,
+    "numero": "56984474303",
+    "parcela": 61,
+    "codigo_pdf": "0048",
+    "todos_codigos_pdf": "0048",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 49,
+    "numero": "56962062234",
+    "parcela": 61,
+    "codigo_pdf": "0049",
+    "todos_codigos_pdf": "0049",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 50,
+    "numero": "56982608749",
+    "parcela": 64,
+    "codigo_pdf": "0050",
+    "todos_codigos_pdf": "0050",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 51,
+    "numero": "56938906408",
+    "parcela": 64,
+    "codigo_pdf": "0051",
+    "todos_codigos_pdf": "0051",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 52,
+    "numero": "56976052218",
+    "parcela": 65,
+    "codigo_pdf": "0052",
+    "todos_codigos_pdf": "0052",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 53,
+    "numero": "56982717508",
+    "parcela": 70,
+    "codigo_pdf": "0053",
+    "todos_codigos_pdf": "0053",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 54,
+    "numero": "56976998333",
+    "parcela": 72,
+    "codigo_pdf": "0054",
+    "todos_codigos_pdf": "0054",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 55,
+    "numero": "56991597883",
+    "parcela": 72,
+    "codigo_pdf": "0055",
+    "todos_codigos_pdf": "0055",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 56,
+    "numero": "56957394063",
+    "parcela": 76,
+    "codigo_pdf": "0056",
+    "todos_codigos_pdf": "0056",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 57,
+    "numero": "56957514402",
+    "parcela": 77,
+    "codigo_pdf": "0057",
+    "todos_codigos_pdf": "0057",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 58,
+    "numero": "56997216557",
+    "parcela": 79,
+    "codigo_pdf": "0058",
+    "todos_codigos_pdf": "0058",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 59,
+    "numero": "56977162160",
+    "parcela": 84,
+    "codigo_pdf": "0059",
+    "todos_codigos_pdf": "0059",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 60,
+    "numero": "56968616294",
+    "parcela": 84,
+    "codigo_pdf": "0060",
+    "todos_codigos_pdf": "0060",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 61,
+    "numero": "56979793798",
+    "parcela": 85,
+    "codigo_pdf": "0061",
+    "todos_codigos_pdf": "0061",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 62,
+    "numero": "56997395851",
+    "parcela": 85,
+    "codigo_pdf": "0062",
+    "todos_codigos_pdf": "0062",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 63,
+    "numero": "56996676994",
+    "parcela": 87,
+    "codigo_pdf": "0063",
+    "todos_codigos_pdf": "0063",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 64,
+    "numero": "56999627845",
+    "parcela": 87,
+    "codigo_pdf": "0064",
+    "todos_codigos_pdf": "0064",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 65,
+    "numero": "56931723166",
+    "parcela": 90,
+    "codigo_pdf": "0065",
+    "todos_codigos_pdf": "0065",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 66,
+    "numero": "56993507132",
+    "parcela": 90,
+    "codigo_pdf": "0066",
+    "todos_codigos_pdf": "0066",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 67,
+    "numero": "56997770913",
+    "parcela": 94,
+    "codigo_pdf": "0067",
+    "todos_codigos_pdf": "0067",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 68,
+    "numero": "56998881283",
+    "parcela": 94,
+    "codigo_pdf": "0068",
+    "todos_codigos_pdf": "0068",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 69,
+    "numero": "56979952314",
+    "parcela": 96,
+    "codigo_pdf": "0069",
+    "todos_codigos_pdf": "0069",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 70,
+    "numero": "56956106883",
+    "parcela": 96,
+    "codigo_pdf": "0070",
+    "todos_codigos_pdf": "0070",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 71,
+    "numero": "56987536312",
+    "parcela": 99,
+    "codigo_pdf": "0071",
+    "todos_codigos_pdf": "0071",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 72,
+    "numero": "56944462782",
+    "parcela": 99,
+    "codigo_pdf": "0072",
+    "todos_codigos_pdf": "0072",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 73,
+    "numero": "56997280440",
+    "parcela": 100,
+    "codigo_pdf": "0073",
+    "todos_codigos_pdf": "0073",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 74,
+    "numero": "56985726755",
+    "parcela": 101,
+    "codigo_pdf": "0074",
+    "todos_codigos_pdf": "0074",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 75,
+    "numero": "56976257342",
+    "parcela": 101,
+    "codigo_pdf": "0075",
+    "todos_codigos_pdf": "0075",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 76,
+    "numero": "56999482080",
+    "parcela": 105,
+    "codigo_pdf": "0076",
+    "todos_codigos_pdf": "0076",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 77,
+    "numero": "56982972823",
+    "parcela": 107,
+    "codigo_pdf": "0077",
+    "todos_codigos_pdf": "0077",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 78,
+    "numero": "56934105211",
+    "parcela": 107,
+    "codigo_pdf": "0078",
+    "todos_codigos_pdf": "0078",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 79,
+    "numero": "56950040751",
+    "parcela": 110,
+    "codigo_pdf": "0079",
+    "todos_codigos_pdf": "0079",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 80,
+    "numero": "56984812274",
+    "parcela": 110,
+    "codigo_pdf": "0080",
+    "todos_codigos_pdf": "0080",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 81,
+    "numero": "56940805995",
+    "parcela": 115,
+    "codigo_pdf": "0081",
+    "todos_codigos_pdf": "0081",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 82,
+    "numero": "56978444212",
+    "parcela": 116,
+    "codigo_pdf": "0082",
+    "todos_codigos_pdf": "0082",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 83,
+    "numero": "56958732009",
+    "parcela": 116,
+    "codigo_pdf": "0083",
+    "todos_codigos_pdf": "0083",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 84,
+    "numero": "56972125186",
+    "parcela": 117,
+    "codigo_pdf": "0084",
+    "todos_codigos_pdf": "0084",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 85,
+    "numero": "56966343449",
+    "parcela": 117,
+    "codigo_pdf": "0085",
+    "todos_codigos_pdf": "0085",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 86,
+    "numero": "56954574059",
+    "parcela": 118,
+    "codigo_pdf": "0086",
+    "todos_codigos_pdf": "0086",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 87,
+    "numero": "56954901002",
+    "parcela": 118,
+    "codigo_pdf": "0087",
+    "todos_codigos_pdf": "0087",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 88,
+    "numero": "56976638573",
+    "parcela": 120,
+    "codigo_pdf": "0088",
+    "todos_codigos_pdf": "0088",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 89,
+    "numero": "56952959520",
+    "parcela": 122,
+    "codigo_pdf": "0089",
+    "todos_codigos_pdf": "0089",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 90,
+    "numero": "56999403923",
+    "parcela": 122,
+    "codigo_pdf": "0090",
+    "todos_codigos_pdf": "0090",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 91,
+    "numero": "56974570173",
+    "parcela": 123,
+    "codigo_pdf": "0091",
+    "todos_codigos_pdf": "0091",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 92,
+    "numero": "56981755838",
+    "parcela": 123,
+    "codigo_pdf": "0092",
+    "todos_codigos_pdf": "0092",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 93,
+    "numero": "56956077639",
+    "parcela": 125,
+    "codigo_pdf": "0093",
+    "todos_codigos_pdf": "0093, 0094",
+    "notas": "Duplicado en TXT; Multiples codigos en PDF; Coincide"
+  },
+  {
+    "orden": 94,
+    "numero": "56956077639",
+    "parcela": 125,
+    "codigo_pdf": "0093",
+    "todos_codigos_pdf": "0093, 0094",
+    "notas": "Duplicado en TXT; Multiples codigos en PDF; Coincide"
+  },
+  {
+    "orden": 95,
+    "numero": "56987816849",
+    "parcela": 126,
+    "codigo_pdf": "0095",
+    "todos_codigos_pdf": "0095",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 96,
+    "numero": "56963758999",
+    "parcela": 126,
+    "codigo_pdf": "0096",
+    "todos_codigos_pdf": "0096",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 97,
+    "numero": "56940524273",
+    "parcela": 127,
+    "codigo_pdf": "0097",
+    "todos_codigos_pdf": "0097",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 98,
+    "numero": "56964756993",
+    "parcela": 127,
+    "codigo_pdf": "0098",
+    "todos_codigos_pdf": "0098",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 99,
+    "numero": "56983352136",
+    "parcela": 128,
+    "codigo_pdf": "0099",
+    "todos_codigos_pdf": "0099",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 100,
+    "numero": "56979486221",
+    "parcela": 128,
+    "codigo_pdf": "0100",
+    "todos_codigos_pdf": "0100",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 101,
+    "numero": "56998029995",
+    "parcela": 129,
+    "codigo_pdf": "0101",
+    "todos_codigos_pdf": "0101",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 102,
+    "numero": "56992891512",
+    "parcela": 133,
+    "codigo_pdf": "0102",
+    "todos_codigos_pdf": "0102",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 103,
+    "numero": "56997703230",
+    "parcela": 136,
+    "codigo_pdf": "0103",
+    "todos_codigos_pdf": "0103",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 104,
+    "numero": "56979735945",
+    "parcela": 136,
+    "codigo_pdf": "0104",
+    "todos_codigos_pdf": "0104",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 105,
+    "numero": "56977611830",
+    "parcela": 137,
+    "codigo_pdf": "0105",
+    "todos_codigos_pdf": "0105",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 106,
+    "numero": "56968479458",
+    "parcela": 138,
+    "codigo_pdf": "0106",
+    "todos_codigos_pdf": "0106",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 107,
+    "numero": "56993275745",
+    "parcela": 138,
+    "codigo_pdf": "0107",
+    "todos_codigos_pdf": "0107",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 108,
+    "numero": "56988546066",
+    "parcela": 141,
+    "codigo_pdf": "0108",
+    "todos_codigos_pdf": "0108",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 109,
+    "numero": "56997961942",
+    "parcela": 141,
+    "codigo_pdf": "0109",
+    "todos_codigos_pdf": "0109",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 110,
+    "numero": "56993343043",
+    "parcela": 143,
+    "codigo_pdf": "0110",
+    "todos_codigos_pdf": "0110",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 111,
+    "numero": "56972651022",
+    "parcela": 147,
+    "codigo_pdf": "0111",
+    "todos_codigos_pdf": "0111",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 112,
+    "numero": "56994035731",
+    "parcela": 147,
+    "codigo_pdf": "0112",
+    "todos_codigos_pdf": "0112",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 113,
+    "numero": "56957323874",
+    "parcela": 148,
+    "codigo_pdf": "0113",
+    "todos_codigos_pdf": "0113",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 114,
+    "numero": "56994684235",
+    "parcela": 148,
+    "codigo_pdf": "0114",
+    "todos_codigos_pdf": "0114",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 115,
+    "numero": "56984874684",
+    "parcela": 149,
+    "codigo_pdf": "0115",
+    "todos_codigos_pdf": "0115",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 116,
+    "numero": "56940151043",
+    "parcela": 150,
+    "codigo_pdf": "0116",
+    "todos_codigos_pdf": "0116",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 117,
+    "numero": "56944816469",
+    "parcela": 150,
+    "codigo_pdf": "0117",
+    "todos_codigos_pdf": "0117",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 118,
+    "numero": "56993293595",
+    "parcela": 151,
+    "codigo_pdf": "0118",
+    "todos_codigos_pdf": "0118",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 119,
+    "numero": "56934277522",
+    "parcela": 152,
+    "codigo_pdf": "0119",
+    "todos_codigos_pdf": "0119",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 120,
+    "numero": "56989232191",
+    "parcela": 152,
+    "codigo_pdf": "0120",
+    "todos_codigos_pdf": "0120",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 121,
+    "numero": "56984582247",
+    "parcela": 153,
+    "codigo_pdf": "0121",
+    "todos_codigos_pdf": "0121",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 122,
+    "numero": "56979649288",
+    "parcela": 153,
+    "codigo_pdf": "0122",
+    "todos_codigos_pdf": "0122",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 123,
+    "numero": "56988287595",
+    "parcela": 154,
+    "codigo_pdf": "0123",
+    "todos_codigos_pdf": "0123",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 124,
+    "numero": "56995456053",
+    "parcela": 154,
+    "codigo_pdf": "0124",
+    "todos_codigos_pdf": "0124",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 125,
+    "numero": "56966693780",
+    "parcela": 158,
+    "codigo_pdf": "0125",
+    "todos_codigos_pdf": "0125",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 126,
+    "numero": "56965624871",
+    "parcela": 158,
+    "codigo_pdf": "0126",
+    "todos_codigos_pdf": "0126",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 127,
+    "numero": "56996206802",
+    "parcela": 159,
+    "codigo_pdf": "0127",
+    "todos_codigos_pdf": "0127",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 128,
+    "numero": "56993734038",
+    "parcela": 159,
+    "codigo_pdf": "0128",
+    "todos_codigos_pdf": "0128",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 129,
+    "numero": "56936619320",
+    "parcela": 160,
+    "codigo_pdf": "0129",
+    "todos_codigos_pdf": "0129",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 130,
+    "numero": "56965146252",
+    "parcela": 160,
+    "codigo_pdf": "0130",
+    "todos_codigos_pdf": "0130",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 131,
+    "numero": "56948842856",
+    "parcela": 163,
+    "codigo_pdf": "0131",
+    "todos_codigos_pdf": "0131",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 132,
+    "numero": "56989961969",
+    "parcela": 163,
+    "codigo_pdf": "0132",
+    "todos_codigos_pdf": "0132",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 133,
+    "numero": "56990010990",
+    "parcela": 164,
+    "codigo_pdf": "0133",
+    "todos_codigos_pdf": "0133",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 134,
+    "numero": "56972168813",
+    "parcela": 164,
+    "codigo_pdf": "0134",
+    "todos_codigos_pdf": "0134",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 135,
+    "numero": "56985291897",
+    "parcela": 165,
+    "codigo_pdf": "0135",
+    "todos_codigos_pdf": "0135",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 136,
+    "numero": "56993182608",
+    "parcela": 165,
+    "codigo_pdf": "0136",
+    "todos_codigos_pdf": "0136",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 137,
+    "numero": "56981296138",
+    "parcela": 167,
+    "codigo_pdf": "0137",
+    "todos_codigos_pdf": "0137",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 138,
+    "numero": "5693211534",
+    "parcela": 167,
+    "codigo_pdf": "",
+    "todos_codigos_pdf": "",
+    "notas": "NO encontrado en PDF"
+  },
+  {
+    "orden": 139,
+    "numero": "56957688191",
+    "parcela": 175,
+    "codigo_pdf": "0139",
+    "todos_codigos_pdf": "0139",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 140,
+    "numero": "56979042888",
+    "parcela": 175,
+    "codigo_pdf": "0140",
+    "todos_codigos_pdf": "0140",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 141,
+    "numero": "56983195972",
+    "parcela": 177,
+    "codigo_pdf": "0141",
+    "todos_codigos_pdf": "0141",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 142,
+    "numero": "56978460539",
+    "parcela": 177,
+    "codigo_pdf": "0142",
+    "todos_codigos_pdf": "0142",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 143,
+    "numero": "56973036471",
+    "parcela": 182,
+    "codigo_pdf": "0143",
+    "todos_codigos_pdf": "0143",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 144,
+    "numero": "56956048301",
+    "parcela": 182,
+    "codigo_pdf": "0144",
+    "todos_codigos_pdf": "0144",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 145,
+    "numero": "56966023518",
+    "parcela": 183,
+    "codigo_pdf": "0145",
+    "todos_codigos_pdf": "0145",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 146,
+    "numero": "56995047437",
+    "parcela": 183,
+    "codigo_pdf": "0146",
+    "todos_codigos_pdf": "0146",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 147,
+    "numero": "56966276581",
+    "parcela": 185,
+    "codigo_pdf": "0147",
+    "todos_codigos_pdf": "0147",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 148,
+    "numero": "56995492930",
+    "parcela": 188,
+    "codigo_pdf": "0148",
+    "todos_codigos_pdf": "0148",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 149,
+    "numero": "56994455591",
+    "parcela": 188,
+    "codigo_pdf": "0149",
+    "todos_codigos_pdf": "0149",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 150,
+    "numero": "56966621472",
+    "parcela": 189,
+    "codigo_pdf": "0150",
+    "todos_codigos_pdf": "0150",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 151,
+    "numero": "56978472885",
+    "parcela": 189,
+    "codigo_pdf": "0151",
+    "todos_codigos_pdf": "0151",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 152,
+    "numero": "56994480797",
+    "parcela": 190,
+    "codigo_pdf": "0152",
+    "todos_codigos_pdf": "0152",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 153,
+    "numero": "56974783342",
+    "parcela": 190,
+    "codigo_pdf": "0153",
+    "todos_codigos_pdf": "0153",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 154,
+    "numero": "56999215504",
+    "parcela": 194,
+    "codigo_pdf": "0154",
+    "todos_codigos_pdf": "0154",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 155,
+    "numero": "56984994002",
+    "parcela": 194,
+    "codigo_pdf": "0155",
+    "todos_codigos_pdf": "0155",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 156,
+    "numero": "56985783400",
+    "parcela": 201,
+    "codigo_pdf": "0156",
+    "todos_codigos_pdf": "0156",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 157,
+    "numero": "56979876337",
+    "parcela": 201,
+    "codigo_pdf": "0157",
+    "todos_codigos_pdf": "0157",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 158,
+    "numero": "56966191743",
+    "parcela": 204,
+    "codigo_pdf": "0158",
+    "todos_codigos_pdf": "0158",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 159,
+    "numero": "56974507461",
+    "parcela": 204,
+    "codigo_pdf": "0159",
+    "todos_codigos_pdf": "0159",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 160,
+    "numero": "56964411148",
+    "parcela": 208,
+    "codigo_pdf": "0160",
+    "todos_codigos_pdf": "0160",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 161,
+    "numero": "56950136610",
+    "parcela": 208,
+    "codigo_pdf": "0161",
+    "todos_codigos_pdf": "0161",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 162,
+    "numero": "56982097745",
+    "parcela": 209,
+    "codigo_pdf": "0162",
+    "todos_codigos_pdf": "0162",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 163,
+    "numero": "56950923412",
+    "parcela": 211,
+    "codigo_pdf": "0163",
+    "todos_codigos_pdf": "0163",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 164,
+    "numero": "56997321018",
+    "parcela": 211,
+    "codigo_pdf": "0164",
+    "todos_codigos_pdf": "0164",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 165,
+    "numero": "56984579444",
+    "parcela": 212,
+    "codigo_pdf": "0165",
+    "todos_codigos_pdf": "0165",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 166,
+    "numero": "56978897282",
+    "parcela": 212,
+    "codigo_pdf": "0166",
+    "todos_codigos_pdf": "0166",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 167,
+    "numero": "56953746682",
+    "parcela": 217,
+    "codigo_pdf": "0167",
+    "todos_codigos_pdf": "0167",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 168,
+    "numero": "56996697700",
+    "parcela": 217,
+    "codigo_pdf": "0168",
+    "todos_codigos_pdf": "0168",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 169,
+    "numero": "56995951519",
+    "parcela": 220,
+    "codigo_pdf": "0169",
+    "todos_codigos_pdf": "0169",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 170,
+    "numero": "56987301307",
+    "parcela": 223,
+    "codigo_pdf": "0170",
+    "todos_codigos_pdf": "0170",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 171,
+    "numero": "56979293024",
+    "parcela": 223,
+    "codigo_pdf": "0171",
+    "todos_codigos_pdf": "0171",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 172,
+    "numero": "56969187813",
+    "parcela": 224,
+    "codigo_pdf": "0172",
+    "todos_codigos_pdf": "0172",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 173,
+    "numero": "56971013079",
+    "parcela": 224,
+    "codigo_pdf": "0173",
+    "todos_codigos_pdf": "0173",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 174,
+    "numero": "56965940149",
+    "parcela": 225,
+    "codigo_pdf": "0174",
+    "todos_codigos_pdf": "0174",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 175,
+    "numero": "56957934428",
+    "parcela": 225,
+    "codigo_pdf": "0175",
+    "todos_codigos_pdf": "0175",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 176,
+    "numero": "56995753150",
+    "parcela": 228,
+    "codigo_pdf": "0176",
+    "todos_codigos_pdf": "0176",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 177,
+    "numero": "56999426297",
+    "parcela": 228,
+    "codigo_pdf": "0177",
+    "todos_codigos_pdf": "0177",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 178,
+    "numero": "56954507983",
+    "parcela": 229,
+    "codigo_pdf": "0178",
+    "todos_codigos_pdf": "0178",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 179,
+    "numero": "56954963313",
+    "parcela": 229,
+    "codigo_pdf": "0179",
+    "todos_codigos_pdf": "0179",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 180,
+    "numero": "56989784069",
+    "parcela": 230,
+    "codigo_pdf": "0180",
+    "todos_codigos_pdf": "0180",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 181,
+    "numero": "56997908575",
+    "parcela": 232,
+    "codigo_pdf": "0181",
+    "todos_codigos_pdf": "0181",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 182,
+    "numero": "56933970604",
+    "parcela": 232,
+    "codigo_pdf": "0182",
+    "todos_codigos_pdf": "0182",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 183,
+    "numero": "56956899587",
+    "parcela": 238,
+    "codigo_pdf": "0183",
+    "todos_codigos_pdf": "0183",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 184,
+    "numero": "56956573513",
+    "parcela": 238,
+    "codigo_pdf": "0184",
+    "todos_codigos_pdf": "0184",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 185,
+    "numero": "56952383180",
+    "parcela": 239,
+    "codigo_pdf": "0185",
+    "todos_codigos_pdf": "0185",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 186,
+    "numero": "56995198254",
+    "parcela": 241,
+    "codigo_pdf": "0186",
+    "todos_codigos_pdf": "0186",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 187,
+    "numero": "56963971887",
+    "parcela": 241,
+    "codigo_pdf": "0187",
+    "todos_codigos_pdf": "0187",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 188,
+    "numero": "56979052606",
+    "parcela": 242,
+    "codigo_pdf": "0188",
+    "todos_codigos_pdf": "0188",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 189,
+    "numero": "56986060347",
+    "parcela": 242,
+    "codigo_pdf": "0189",
+    "todos_codigos_pdf": "0189",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 190,
+    "numero": "56941323663",
+    "parcela": 243,
+    "codigo_pdf": "0190",
+    "todos_codigos_pdf": "0190",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 191,
+    "numero": "56982886491",
+    "parcela": 243,
+    "codigo_pdf": "0191",
+    "todos_codigos_pdf": "0191",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 192,
+    "numero": "56981588377",
+    "parcela": 244,
+    "codigo_pdf": "0192",
+    "todos_codigos_pdf": "0192",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 193,
+    "numero": "56962479613",
+    "parcela": 244,
+    "codigo_pdf": "0193",
+    "todos_codigos_pdf": "0193",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 194,
+    "numero": "56978569121",
+    "parcela": 247,
+    "codigo_pdf": "0194",
+    "todos_codigos_pdf": "0194",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 195,
+    "numero": "56982555057",
+    "parcela": 247,
+    "codigo_pdf": "0195",
+    "todos_codigos_pdf": "0195",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 196,
+    "numero": "56953940524",
+    "parcela": 248,
+    "codigo_pdf": "0196",
+    "todos_codigos_pdf": "0196",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 197,
+    "numero": "56968665065",
+    "parcela": 248,
+    "codigo_pdf": "0197",
+    "todos_codigos_pdf": "0197",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 198,
+    "numero": "56991006708",
+    "parcela": 251,
+    "codigo_pdf": "0198",
+    "todos_codigos_pdf": "0198",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 199,
+    "numero": "56973265963",
+    "parcela": 251,
+    "codigo_pdf": "0199",
+    "todos_codigos_pdf": "0199",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 200,
+    "numero": "56997436610",
+    "parcela": 252,
+    "codigo_pdf": "0200",
+    "todos_codigos_pdf": "0200",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 201,
+    "numero": "56963101136",
+    "parcela": 252,
+    "codigo_pdf": "0201",
+    "todos_codigos_pdf": "0201",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 202,
+    "numero": "56954027894",
+    "parcela": 253,
+    "codigo_pdf": "0202",
+    "todos_codigos_pdf": "0202",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 203,
+    "numero": "56942298506",
+    "parcela": 253,
+    "codigo_pdf": "0203",
+    "todos_codigos_pdf": "0203",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 204,
+    "numero": "56932486888",
+    "parcela": 255,
+    "codigo_pdf": "0204",
+    "todos_codigos_pdf": "0204",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 205,
+    "numero": "56948021425",
+    "parcela": 255,
+    "codigo_pdf": "0205",
+    "todos_codigos_pdf": "0205",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 206,
+    "numero": "56978605773",
+    "parcela": 256,
+    "codigo_pdf": "0206",
+    "todos_codigos_pdf": "0206",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 207,
+    "numero": "56957112301",
+    "parcela": 256,
+    "codigo_pdf": "0207",
+    "todos_codigos_pdf": "0207",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 208,
+    "numero": "56966749575",
+    "parcela": 258,
+    "codigo_pdf": "0208",
+    "todos_codigos_pdf": "0208",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 209,
+    "numero": "56994485637",
+    "parcela": 258,
+    "codigo_pdf": "0209",
+    "todos_codigos_pdf": "0209",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 210,
+    "numero": "56998856255",
+    "parcela": 260,
+    "codigo_pdf": "0210",
+    "todos_codigos_pdf": "0210",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 211,
+    "numero": "56982948897",
+    "parcela": 260,
+    "codigo_pdf": "0211",
+    "todos_codigos_pdf": "0211",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 212,
+    "numero": "56961919906",
+    "parcela": 264,
+    "codigo_pdf": "0212",
+    "todos_codigos_pdf": "0212",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 213,
+    "numero": "56997903502",
+    "parcela": 264,
+    "codigo_pdf": "0213",
+    "todos_codigos_pdf": "0213",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 214,
+    "numero": "56983846810",
+    "parcela": 269,
+    "codigo_pdf": "0214",
+    "todos_codigos_pdf": "0214",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 215,
+    "numero": "56983931326",
+    "parcela": 269,
+    "codigo_pdf": "0215",
+    "todos_codigos_pdf": "0215",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 216,
+    "numero": "56974509249",
+    "parcela": 272,
+    "codigo_pdf": "0216",
+    "todos_codigos_pdf": "0216",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 217,
+    "numero": "5696983810",
+    "parcela": 273,
+    "codigo_pdf": "0217",
+    "todos_codigos_pdf": "0217",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 218,
+    "numero": "56932477249",
+    "parcela": 277,
+    "codigo_pdf": "0218",
+    "todos_codigos_pdf": "0218",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 219,
+    "numero": "56965897790",
+    "parcela": 277,
+    "codigo_pdf": "0219",
+    "todos_codigos_pdf": "0219",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 220,
+    "numero": "56956250518",
+    "parcela": 278,
+    "codigo_pdf": "0220",
+    "todos_codigos_pdf": "0220",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 221,
+    "numero": "56973889274",
+    "parcela": 278,
+    "codigo_pdf": "0221",
+    "todos_codigos_pdf": "0221",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 222,
+    "numero": "56977009836",
+    "parcela": 279,
+    "codigo_pdf": "0222",
+    "todos_codigos_pdf": "0222",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 223,
+    "numero": "56984107102",
+    "parcela": 279,
+    "codigo_pdf": "0223",
+    "todos_codigos_pdf": "0223",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 224,
+    "numero": "56978712966",
+    "parcela": 280,
+    "codigo_pdf": "0224",
+    "todos_codigos_pdf": "0224",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 225,
+    "numero": "56949857888",
+    "parcela": 280,
+    "codigo_pdf": "0225",
+    "todos_codigos_pdf": "0225",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 226,
+    "numero": "56995557334",
+    "parcela": 281,
+    "codigo_pdf": "0226",
+    "todos_codigos_pdf": "0226",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 227,
+    "numero": "56977724283",
+    "parcela": 281,
+    "codigo_pdf": "0227",
+    "todos_codigos_pdf": "0227",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 228,
+    "numero": "56988214835",
+    "parcela": 284,
+    "codigo_pdf": "0228",
+    "todos_codigos_pdf": "0228",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 229,
+    "numero": "56976010508",
+    "parcela": 284,
+    "codigo_pdf": "0229",
+    "todos_codigos_pdf": "0229",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 230,
+    "numero": "56942454488",
+    "parcela": 286,
+    "codigo_pdf": "0230",
+    "todos_codigos_pdf": "0230",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 231,
+    "numero": "56973387122",
+    "parcela": 286,
+    "codigo_pdf": "0231",
+    "todos_codigos_pdf": "0231",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 232,
+    "numero": "56981860746",
+    "parcela": 286,
+    "codigo_pdf": "0232",
+    "todos_codigos_pdf": "0232",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 233,
+    "numero": "56959584549",
+    "parcela": 289,
+    "codigo_pdf": "0233",
+    "todos_codigos_pdf": "0233",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 234,
+    "numero": "56955376899",
+    "parcela": 289,
+    "codigo_pdf": "0234",
+    "todos_codigos_pdf": "0234",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 235,
+    "numero": "56945350153",
+    "parcela": 291,
+    "codigo_pdf": "0235",
+    "todos_codigos_pdf": "0235",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 236,
+    "numero": "56998021268",
+    "parcela": 291,
+    "codigo_pdf": "0236",
+    "todos_codigos_pdf": "0236",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 237,
+    "numero": "56994901889",
+    "parcela": 292,
+    "codigo_pdf": "0237",
+    "todos_codigos_pdf": "0237",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 238,
+    "numero": "56984227131",
+    "parcela": 294,
+    "codigo_pdf": "0238",
+    "todos_codigos_pdf": "0238",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 239,
+    "numero": "56940443854",
+    "parcela": 295,
+    "codigo_pdf": "0239",
+    "todos_codigos_pdf": "0239",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 240,
+    "numero": "56971418816",
+    "parcela": 297,
+    "codigo_pdf": "0240",
+    "todos_codigos_pdf": "0240",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 241,
+    "numero": "56944955261",
+    "parcela": 297,
+    "codigo_pdf": "0241",
+    "todos_codigos_pdf": "0241",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 242,
+    "numero": "56979087435",
+    "parcela": 301,
+    "codigo_pdf": "0242",
+    "todos_codigos_pdf": "0242",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 243,
+    "numero": "56932321314",
+    "parcela": 301,
+    "codigo_pdf": "0243",
+    "todos_codigos_pdf": "0243",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 244,
+    "numero": "56954708441",
+    "parcela": 303,
+    "codigo_pdf": "0244",
+    "todos_codigos_pdf": "0244",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 245,
+    "numero": "56989593703",
+    "parcela": 303,
+    "codigo_pdf": "0245",
+    "todos_codigos_pdf": "0245",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 246,
+    "numero": "56956666948",
+    "parcela": 306,
+    "codigo_pdf": "0246",
+    "todos_codigos_pdf": "0246",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 247,
+    "numero": "56982815068",
+    "parcela": 306,
+    "codigo_pdf": "0247",
+    "todos_codigos_pdf": "0247",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 248,
+    "numero": "56936301416",
+    "parcela": 307,
+    "codigo_pdf": "0248",
+    "todos_codigos_pdf": "0248",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 249,
+    "numero": "56933169495",
+    "parcela": 308,
+    "codigo_pdf": "0249",
+    "todos_codigos_pdf": "0249",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 250,
+    "numero": "56985044326",
+    "parcela": 308,
+    "codigo_pdf": "0250",
+    "todos_codigos_pdf": "0250",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 251,
+    "numero": "56995773582",
+    "parcela": 309,
+    "codigo_pdf": "0251",
+    "todos_codigos_pdf": "0251",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 252,
+    "numero": "56989162646",
+    "parcela": 309,
+    "codigo_pdf": "0252",
+    "todos_codigos_pdf": "0252",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 253,
+    "numero": "56997811112",
+    "parcela": 310,
+    "codigo_pdf": "0253",
+    "todos_codigos_pdf": "0253",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 254,
+    "numero": "56991717028",
+    "parcela": 310,
+    "codigo_pdf": "0254",
+    "todos_codigos_pdf": "0254",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 255,
+    "numero": "56933879686",
+    "parcela": 311,
+    "codigo_pdf": "0255",
+    "todos_codigos_pdf": "0255",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 256,
+    "numero": "56937394815",
+    "parcela": 311,
+    "codigo_pdf": "0256",
+    "todos_codigos_pdf": "0256",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 257,
+    "numero": "56971015515",
+    "parcela": 312,
+    "codigo_pdf": "0257",
+    "todos_codigos_pdf": "0257",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 258,
+    "numero": "56952044915",
+    "parcela": 312,
+    "codigo_pdf": "0258",
+    "todos_codigos_pdf": "0258",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 259,
+    "numero": "56962091249",
+    "parcela": 313,
+    "codigo_pdf": "0259",
+    "todos_codigos_pdf": "0259",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 260,
+    "numero": "56931879413",
+    "parcela": 313,
+    "codigo_pdf": "0260",
+    "todos_codigos_pdf": "0260",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 261,
+    "numero": "56965329654",
+    "parcela": 314,
+    "codigo_pdf": "0261",
+    "todos_codigos_pdf": "0261",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 262,
+    "numero": "56956463820",
+    "parcela": 314,
+    "codigo_pdf": "0262",
+    "todos_codigos_pdf": "0262",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 263,
+    "numero": "56951001710",
+    "parcela": 315,
+    "codigo_pdf": "0263",
+    "todos_codigos_pdf": "0263",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 264,
+    "numero": "56951224871",
+    "parcela": 315,
+    "codigo_pdf": "0264",
+    "todos_codigos_pdf": "0264",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 265,
+    "numero": "56955201695",
+    "parcela": 316,
+    "codigo_pdf": "0265",
+    "todos_codigos_pdf": "0265",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 266,
+    "numero": "56964982369",
+    "parcela": 316,
+    "codigo_pdf": "0266",
+    "todos_codigos_pdf": "0266",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 267,
+    "numero": "56962315600",
+    "parcela": 317,
+    "codigo_pdf": "0267",
+    "todos_codigos_pdf": "0267",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 268,
+    "numero": "56991693025",
+    "parcela": 317,
+    "codigo_pdf": "0268",
+    "todos_codigos_pdf": "0268",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 269,
+    "numero": "56949964038",
+    "parcela": 318,
+    "codigo_pdf": "0269",
+    "todos_codigos_pdf": "0269",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 270,
+    "numero": "56964389478",
+    "parcela": 318,
+    "codigo_pdf": "0270",
+    "todos_codigos_pdf": "0270",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 271,
+    "numero": "56979110703",
+    "parcela": 319,
+    "codigo_pdf": "0271",
+    "todos_codigos_pdf": "0271",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 272,
+    "numero": "56968496961",
+    "parcela": 321,
+    "codigo_pdf": "0272",
+    "todos_codigos_pdf": "0272",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 273,
+    "numero": "56920305257",
+    "parcela": 321,
+    "codigo_pdf": "0273",
+    "todos_codigos_pdf": "0273",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 274,
+    "numero": "56982439028",
+    "parcela": 325,
+    "codigo_pdf": "0274",
+    "todos_codigos_pdf": "0274",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 275,
+    "numero": "56971089374",
+    "parcela": 329,
+    "codigo_pdf": "0275",
+    "todos_codigos_pdf": "0275",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 276,
+    "numero": "56957982856",
+    "parcela": 329,
+    "codigo_pdf": "0276",
+    "todos_codigos_pdf": "0276",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 277,
+    "numero": "56934074133",
+    "parcela": 332,
+    "codigo_pdf": "0277",
+    "todos_codigos_pdf": "0277",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 278,
+    "numero": "56974930762",
+    "parcela": 332,
+    "codigo_pdf": "0278",
+    "todos_codigos_pdf": "0278",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 279,
+    "numero": "56956880731",
+    "parcela": 335,
+    "codigo_pdf": "0279",
+    "todos_codigos_pdf": "0279",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 280,
+    "numero": "56948946377",
+    "parcela": 335,
+    "codigo_pdf": "0280",
+    "todos_codigos_pdf": "0280",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 281,
+    "numero": "56991541819",
+    "parcela": 337,
+    "codigo_pdf": "0281",
+    "todos_codigos_pdf": "0281",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 282,
+    "numero": "56982612220",
+    "parcela": 337,
+    "codigo_pdf": "0282",
+    "todos_codigos_pdf": "0282",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 283,
+    "numero": "56979402443",
+    "parcela": 338,
+    "codigo_pdf": "0283",
+    "todos_codigos_pdf": "0283",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 284,
+    "numero": "56950012526",
+    "parcela": 338,
+    "codigo_pdf": "0284",
+    "todos_codigos_pdf": "0284",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 285,
+    "numero": "56939273255",
+    "parcela": 340,
+    "codigo_pdf": "0285",
+    "todos_codigos_pdf": "0285",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 286,
+    "numero": "56978926465",
+    "parcela": 340,
+    "codigo_pdf": "0286",
+    "todos_codigos_pdf": "0286",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 287,
+    "numero": "56972001031",
+    "parcela": 341,
+    "codigo_pdf": "0287",
+    "todos_codigos_pdf": "0287",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 288,
+    "numero": "56950242270",
+    "parcela": 341,
+    "codigo_pdf": "0288",
+    "todos_codigos_pdf": "0288",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 289,
+    "numero": "56931948456",
+    "parcela": 343,
+    "codigo_pdf": "0289",
+    "todos_codigos_pdf": "0289",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 290,
+    "numero": "56933932450",
+    "parcela": 343,
+    "codigo_pdf": "0290",
+    "todos_codigos_pdf": "0290",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 291,
+    "numero": "56984994377",
+    "parcela": 346,
+    "codigo_pdf": "0291",
+    "todos_codigos_pdf": "0291",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 292,
+    "numero": "56984996567",
+    "parcela": 346,
+    "codigo_pdf": "0292",
+    "todos_codigos_pdf": "0292",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 293,
+    "numero": "56940444475",
+    "parcela": 347,
+    "codigo_pdf": "0293",
+    "todos_codigos_pdf": "0293, 0435",
+    "notas": "Multiples codigos en PDF; Coincide"
+  },
+  {
+    "orden": 294,
+    "numero": "56966188903",
+    "parcela": 348,
+    "codigo_pdf": "0294",
+    "todos_codigos_pdf": "0294",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 295,
+    "numero": "56937348698",
+    "parcela": 348,
+    "codigo_pdf": "0295",
+    "todos_codigos_pdf": "0295",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 296,
+    "numero": "56995468953",
+    "parcela": 349,
+    "codigo_pdf": "0296",
+    "todos_codigos_pdf": "0296",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 297,
+    "numero": "56990478050",
+    "parcela": 349,
+    "codigo_pdf": "0297",
+    "todos_codigos_pdf": "0297",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 298,
+    "numero": "56985069468",
+    "parcela": 351,
+    "codigo_pdf": "0298",
+    "todos_codigos_pdf": "0298",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 299,
+    "numero": "56950779206",
+    "parcela": 351,
+    "codigo_pdf": "0299",
+    "todos_codigos_pdf": "0299",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 300,
+    "numero": "56976293501",
+    "parcela": 352,
+    "codigo_pdf": "0300",
+    "todos_codigos_pdf": "0300",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 301,
+    "numero": "56948762155",
+    "parcela": 352,
+    "codigo_pdf": "0301",
+    "todos_codigos_pdf": "0301",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 302,
+    "numero": "56997534215",
+    "parcela": 353,
+    "codigo_pdf": "0302",
+    "todos_codigos_pdf": "0302",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 303,
+    "numero": "56991661601",
+    "parcela": 354,
+    "codigo_pdf": "0303",
+    "todos_codigos_pdf": "0303",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 304,
+    "numero": "56948013574",
+    "parcela": 354,
+    "codigo_pdf": "0304",
+    "todos_codigos_pdf": "0304",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 305,
+    "numero": "56997347281",
+    "parcela": 355,
+    "codigo_pdf": "0305",
+    "todos_codigos_pdf": "0305",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 306,
+    "numero": "56986555734",
+    "parcela": 357,
+    "codigo_pdf": "0306",
+    "todos_codigos_pdf": "0306",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 307,
+    "numero": "56986555730",
+    "parcela": 357,
+    "codigo_pdf": "0307",
+    "todos_codigos_pdf": "0307",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 308,
+    "numero": "56974795347",
+    "parcela": 359,
+    "codigo_pdf": "0308",
+    "todos_codigos_pdf": "0308",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 309,
+    "numero": "56991544159",
+    "parcela": 359,
+    "codigo_pdf": "0309",
+    "todos_codigos_pdf": "0309",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 310,
+    "numero": "56992566967",
+    "parcela": 360,
+    "codigo_pdf": "0310",
+    "todos_codigos_pdf": "0310",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 311,
+    "numero": "56971418093",
+    "parcela": 360,
+    "codigo_pdf": "0311",
+    "todos_codigos_pdf": "0311",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 312,
+    "numero": "56998257590",
+    "parcela": 361,
+    "codigo_pdf": "0312",
+    "todos_codigos_pdf": "0312",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 313,
+    "numero": "56991293377",
+    "parcela": 361,
+    "codigo_pdf": "0313",
+    "todos_codigos_pdf": "0313",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 314,
+    "numero": "56969191339",
+    "parcela": 362,
+    "codigo_pdf": "0314",
+    "todos_codigos_pdf": "0314",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 315,
+    "numero": "56996995376",
+    "parcela": 362,
+    "codigo_pdf": "0315",
+    "todos_codigos_pdf": "0315",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 316,
+    "numero": "56974079757",
+    "parcela": 363,
+    "codigo_pdf": "0316",
+    "todos_codigos_pdf": "0316",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 317,
+    "numero": "56954198292",
+    "parcela": 367,
+    "codigo_pdf": "0317",
+    "todos_codigos_pdf": "0317",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 318,
+    "numero": "56999782753",
+    "parcela": 367,
+    "codigo_pdf": "0318",
+    "todos_codigos_pdf": "0318",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 319,
+    "numero": "56954217849",
+    "parcela": 369,
+    "codigo_pdf": "0319",
+    "todos_codigos_pdf": "0319",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 320,
+    "numero": "56994170893",
+    "parcela": 369,
+    "codigo_pdf": "0320",
+    "todos_codigos_pdf": "0320",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 321,
+    "numero": "56948499133",
+    "parcela": 375,
+    "codigo_pdf": "0321",
+    "todos_codigos_pdf": "0321",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 322,
+    "numero": "56964243935",
+    "parcela": 375,
+    "codigo_pdf": "0322",
+    "todos_codigos_pdf": "0322",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 323,
+    "numero": "56993934804",
+    "parcela": 376,
+    "codigo_pdf": "0323",
+    "todos_codigos_pdf": "0323",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 324,
+    "numero": "56995468618",
+    "parcela": 376,
+    "codigo_pdf": "0324",
+    "todos_codigos_pdf": "0324",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 325,
+    "numero": "56972879687",
+    "parcela": 377,
+    "codigo_pdf": "0325",
+    "todos_codigos_pdf": "0325",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 326,
+    "numero": "56993197093",
+    "parcela": 377,
+    "codigo_pdf": "0326",
+    "todos_codigos_pdf": "0326",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 327,
+    "numero": "56979972475",
+    "parcela": 378,
+    "codigo_pdf": "0327",
+    "todos_codigos_pdf": "0327",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 328,
+    "numero": "56973508041",
+    "parcela": 378,
+    "codigo_pdf": "0328",
+    "todos_codigos_pdf": "0328",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 329,
+    "numero": "56966559814",
+    "parcela": 382,
+    "codigo_pdf": "0329",
+    "todos_codigos_pdf": "0329",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 330,
+    "numero": "56942113312",
+    "parcela": 382,
+    "codigo_pdf": "0330",
+    "todos_codigos_pdf": "0330",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 331,
+    "numero": "56950858585",
+    "parcela": 385,
+    "codigo_pdf": "0331",
+    "todos_codigos_pdf": "0331",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 332,
+    "numero": "56998975033",
+    "parcela": 389,
+    "codigo_pdf": "0332",
+    "todos_codigos_pdf": "0332",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 333,
+    "numero": "56972177131",
+    "parcela": 389,
+    "codigo_pdf": "0333",
+    "todos_codigos_pdf": "0333",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 334,
+    "numero": "56966490447",
+    "parcela": 390,
+    "codigo_pdf": "0334",
+    "todos_codigos_pdf": "0334",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 335,
+    "numero": "56976020885",
+    "parcela": 390,
+    "codigo_pdf": "0335",
+    "todos_codigos_pdf": "0335",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 336,
+    "numero": "56961657368",
+    "parcela": 392,
+    "codigo_pdf": "0336",
+    "todos_codigos_pdf": "0336",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 337,
+    "numero": "56985140021",
+    "parcela": 392,
+    "codigo_pdf": "0337",
+    "todos_codigos_pdf": "0337",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 338,
+    "numero": "56994618639",
+    "parcela": 393,
+    "codigo_pdf": "0338",
+    "todos_codigos_pdf": "0338",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 339,
+    "numero": "56988570105",
+    "parcela": 393,
+    "codigo_pdf": "0339",
+    "todos_codigos_pdf": "0339",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 340,
+    "numero": "56996721799",
+    "parcela": 394,
+    "codigo_pdf": "0340",
+    "todos_codigos_pdf": "0340",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 341,
+    "numero": "56964036738",
+    "parcela": 395,
+    "codigo_pdf": "0341",
+    "todos_codigos_pdf": "0341",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 342,
+    "numero": "56934952731",
+    "parcela": 395,
+    "codigo_pdf": "0342",
+    "todos_codigos_pdf": "0342",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 343,
+    "numero": "56983605837",
+    "parcela": 397,
+    "codigo_pdf": "0343",
+    "todos_codigos_pdf": "0343",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 344,
+    "numero": "56983645000",
+    "parcela": 397,
+    "codigo_pdf": "0344",
+    "todos_codigos_pdf": "0344",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 345,
+    "numero": "56976171340",
+    "parcela": 399,
+    "codigo_pdf": "0345",
+    "todos_codigos_pdf": "0345",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 346,
+    "numero": "56989981572",
+    "parcela": 399,
+    "codigo_pdf": "0346",
+    "todos_codigos_pdf": "0346",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 347,
+    "numero": "56931815487",
+    "parcela": 400,
+    "codigo_pdf": "0347",
+    "todos_codigos_pdf": "0347",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 348,
+    "numero": "56974764179",
+    "parcela": 400,
+    "codigo_pdf": "0348",
+    "todos_codigos_pdf": "0348",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 349,
+    "numero": "56962085003",
+    "parcela": 401,
+    "codigo_pdf": "0349",
+    "todos_codigos_pdf": "0349",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 350,
+    "numero": "56996499004",
+    "parcela": 401,
+    "codigo_pdf": "0350",
+    "todos_codigos_pdf": "0350",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 351,
+    "numero": "56971557378",
+    "parcela": 402,
+    "codigo_pdf": "0351",
+    "todos_codigos_pdf": "0351",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 352,
+    "numero": "56979554737",
+    "parcela": 402,
+    "codigo_pdf": "0352",
+    "todos_codigos_pdf": "0352",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 353,
+    "numero": "56974564978",
+    "parcela": 404,
+    "codigo_pdf": "0353",
+    "todos_codigos_pdf": "0353",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 354,
+    "numero": "56948518330",
+    "parcela": 404,
+    "codigo_pdf": "0354",
+    "todos_codigos_pdf": "0354",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 355,
+    "numero": "56986655085",
+    "parcela": 406,
+    "codigo_pdf": "0355",
+    "todos_codigos_pdf": "0355, 0430",
+    "notas": "Multiples codigos en PDF; Coincide"
+  },
+  {
+    "orden": 356,
+    "numero": "56995320412",
+    "parcela": 406,
+    "codigo_pdf": "0356",
+    "todos_codigos_pdf": "0356",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 357,
+    "numero": "56995242903",
+    "parcela": 407,
+    "codigo_pdf": "0357",
+    "todos_codigos_pdf": "0357",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 358,
+    "numero": "56977487665",
+    "parcela": 408,
+    "codigo_pdf": "0358",
+    "todos_codigos_pdf": "0358",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 359,
+    "numero": "56985595479",
+    "parcela": 409,
+    "codigo_pdf": "0359",
+    "todos_codigos_pdf": "0359",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 360,
+    "numero": "56985579375",
+    "parcela": 409,
+    "codigo_pdf": "0360",
+    "todos_codigos_pdf": "0360",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 361,
+    "numero": "56981296178",
+    "parcela": 410,
+    "codigo_pdf": "0361",
+    "todos_codigos_pdf": "0361",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 362,
+    "numero": "56932372709",
+    "parcela": 410,
+    "codigo_pdf": "0362",
+    "todos_codigos_pdf": "0362",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 363,
+    "numero": "56934665415",
+    "parcela": 411,
+    "codigo_pdf": "0363",
+    "todos_codigos_pdf": "0363",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 364,
+    "numero": "56984661309",
+    "parcela": 411,
+    "codigo_pdf": "0364",
+    "todos_codigos_pdf": "0364",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 365,
+    "numero": "56981967835",
+    "parcela": 412,
+    "codigo_pdf": "0365",
+    "todos_codigos_pdf": "0365",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 366,
+    "numero": "56964055752",
+    "parcela": 412,
+    "codigo_pdf": "0366",
+    "todos_codigos_pdf": "0366",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 367,
+    "numero": "56959333558",
+    "parcela": 413,
+    "codigo_pdf": "0367",
+    "todos_codigos_pdf": "0367",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 368,
+    "numero": "56935835857",
+    "parcela": 413,
+    "codigo_pdf": "0368",
+    "todos_codigos_pdf": "0368",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 369,
+    "numero": "56994130905",
+    "parcela": 414,
+    "codigo_pdf": "0369",
+    "todos_codigos_pdf": "0369",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 370,
+    "numero": "56935373773",
+    "parcela": 414,
+    "codigo_pdf": "0370",
+    "todos_codigos_pdf": "0370",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 371,
+    "numero": "56931339034",
+    "parcela": 415,
+    "codigo_pdf": "0371",
+    "todos_codigos_pdf": "0371",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 372,
+    "numero": "56971063524",
+    "parcela": 415,
+    "codigo_pdf": "0372",
+    "todos_codigos_pdf": "0372",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 373,
+    "numero": "56955147875",
+    "parcela": 416,
+    "codigo_pdf": "0373",
+    "todos_codigos_pdf": "0373",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 374,
+    "numero": "56936772941",
+    "parcela": 416,
+    "codigo_pdf": "0374",
+    "todos_codigos_pdf": "0374",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 375,
+    "numero": "56976298278",
+    "parcela": 418,
+    "codigo_pdf": "0375",
+    "todos_codigos_pdf": "0375",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 376,
+    "numero": "56988211282",
+    "parcela": 418,
+    "codigo_pdf": "0376",
+    "todos_codigos_pdf": "0376",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 377,
+    "numero": "56975260009",
+    "parcela": 419,
+    "codigo_pdf": "0377",
+    "todos_codigos_pdf": "0377",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 378,
+    "numero": "56974326836",
+    "parcela": 419,
+    "codigo_pdf": "0378",
+    "todos_codigos_pdf": "0378",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 379,
+    "numero": "56952116889",
+    "parcela": 420,
+    "codigo_pdf": "0379",
+    "todos_codigos_pdf": "0379",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 380,
+    "numero": "56944908110",
+    "parcela": 420,
+    "codigo_pdf": "0380",
+    "todos_codigos_pdf": "0380",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 381,
+    "numero": "56968969283",
+    "parcela": 421,
+    "codigo_pdf": "0381",
+    "todos_codigos_pdf": "0381",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 382,
+    "numero": "56988198051",
+    "parcela": 421,
+    "codigo_pdf": "0382",
+    "todos_codigos_pdf": "0382",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 383,
+    "numero": "56983948223",
+    "parcela": 422,
+    "codigo_pdf": "0383",
+    "todos_codigos_pdf": "0383",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 384,
+    "numero": "56968501637",
+    "parcela": 422,
+    "codigo_pdf": "0384",
+    "todos_codigos_pdf": "0384",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 385,
+    "numero": "56976970240",
+    "parcela": 423,
+    "codigo_pdf": "0385",
+    "todos_codigos_pdf": "0385",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 386,
+    "numero": "56995408403",
+    "parcela": 423,
+    "codigo_pdf": "0386",
+    "todos_codigos_pdf": "0386",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 387,
+    "numero": "56966683932",
+    "parcela": 425,
+    "codigo_pdf": "0387",
+    "todos_codigos_pdf": "0387",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 388,
+    "numero": "56947922471",
+    "parcela": 425,
+    "codigo_pdf": "0388",
+    "todos_codigos_pdf": "0388",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 389,
+    "numero": "56995163863",
+    "parcela": 426,
+    "codigo_pdf": "0389",
+    "todos_codigos_pdf": "0389",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 390,
+    "numero": "56976410509",
+    "parcela": 426,
+    "codigo_pdf": "0390",
+    "todos_codigos_pdf": "0390",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 391,
+    "numero": "56956373219",
+    "parcela": 427,
+    "codigo_pdf": "0391",
+    "todos_codigos_pdf": "0391",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 392,
+    "numero": "56977002363",
+    "parcela": 427,
+    "codigo_pdf": "0392",
+    "todos_codigos_pdf": "0392",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 393,
+    "numero": "56955135193",
+    "parcela": 428,
+    "codigo_pdf": "0393",
+    "todos_codigos_pdf": "0393",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 394,
+    "numero": "56977328073",
+    "parcela": 429,
+    "codigo_pdf": "0394",
+    "todos_codigos_pdf": "0394",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 395,
+    "numero": "56947517002",
+    "parcela": 429,
+    "codigo_pdf": "0395",
+    "todos_codigos_pdf": "0395",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 396,
+    "numero": "56951267746",
+    "parcela": 431,
+    "codigo_pdf": "0396",
+    "todos_codigos_pdf": "0396",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 397,
+    "numero": "56933575849",
+    "parcela": 433,
+    "codigo_pdf": "0397",
+    "todos_codigos_pdf": "0397",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 398,
+    "numero": "56934316174",
+    "parcela": 433,
+    "codigo_pdf": "0398",
+    "todos_codigos_pdf": "0398",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 399,
+    "numero": "56991586539",
+    "parcela": 434,
+    "codigo_pdf": "0399",
+    "todos_codigos_pdf": "0399",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 400,
+    "numero": "56997892037",
+    "parcela": 434,
+    "codigo_pdf": "0400",
+    "todos_codigos_pdf": "0400",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 401,
+    "numero": "56995477690",
+    "parcela": 440,
+    "codigo_pdf": "0401",
+    "todos_codigos_pdf": "0401",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 402,
+    "numero": "56983513873",
+    "parcela": 440,
+    "codigo_pdf": "0402",
+    "todos_codigos_pdf": "0402",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 403,
+    "numero": "56974197294",
+    "parcela": 441,
+    "codigo_pdf": "0403",
+    "todos_codigos_pdf": "0403",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 404,
+    "numero": "56941712904",
+    "parcela": 441,
+    "codigo_pdf": "0404",
+    "todos_codigos_pdf": "0404",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 405,
+    "numero": "56981958982",
+    "parcela": 249,
+    "codigo_pdf": "0405",
+    "todos_codigos_pdf": "0405",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 406,
+    "numero": "56997436616",
+    "parcela": 252,
+    "codigo_pdf": "0406",
+    "todos_codigos_pdf": "0406",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 407,
+    "numero": "56984869091",
+    "parcela": 308,
+    "codigo_pdf": "0407",
+    "todos_codigos_pdf": "0407",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 408,
+    "numero": "56957602164",
+    "parcela": 411,
+    "codigo_pdf": "0408",
+    "todos_codigos_pdf": "0408",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 409,
+    "numero": "56956636626",
+    "parcela": 411,
+    "codigo_pdf": "0409",
+    "todos_codigos_pdf": "0409",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 410,
+    "numero": "56935017121",
+    "parcela": 123,
+    "codigo_pdf": "0410",
+    "todos_codigos_pdf": "0410",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 411,
+    "numero": "56988214735",
+    "parcela": 284,
+    "codigo_pdf": "0411",
+    "todos_codigos_pdf": "0411",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 412,
+    "numero": "56953852624",
+    "parcela": 331,
+    "codigo_pdf": "0412",
+    "todos_codigos_pdf": "0412",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 413,
+    "numero": "56950823188",
+    "parcela": 175,
+    "codigo_pdf": "0413",
+    "todos_codigos_pdf": "0413",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 414,
+    "numero": "56995843275",
+    "parcela": 230,
+    "codigo_pdf": "0414",
+    "todos_codigos_pdf": "0414",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 415,
+    "numero": "56982237375",
+    "parcela": 25,
+    "codigo_pdf": "0415",
+    "todos_codigos_pdf": "0415",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 416,
+    "numero": "56958705408",
+    "parcela": 25,
+    "codigo_pdf": "0416",
+    "todos_codigos_pdf": "0416",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 417,
+    "numero": "56931966890",
+    "parcela": 172,
+    "codigo_pdf": "0417",
+    "todos_codigos_pdf": "0417",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 418,
+    "numero": "56992381364",
+    "parcela": 129,
+    "codigo_pdf": "0418",
+    "todos_codigos_pdf": "0418",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 419,
+    "numero": "56962609993",
+    "parcela": 114,
+    "codigo_pdf": "0419",
+    "todos_codigos_pdf": "0419",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 420,
+    "numero": "56977997413",
+    "parcela": 147,
+    "codigo_pdf": "0420",
+    "todos_codigos_pdf": "0420",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 421,
+    "numero": "56995652045",
+    "parcela": 105,
+    "codigo_pdf": "0421",
+    "todos_codigos_pdf": "0421",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 422,
+    "numero": "56989456301",
+    "parcela": 325,
+    "codigo_pdf": "0422",
+    "todos_codigos_pdf": "0422",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 423,
+    "numero": "56923775346",
+    "parcela": 143,
+    "codigo_pdf": "0423",
+    "todos_codigos_pdf": "0423",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 424,
+    "numero": "56941234957",
+    "parcela": 143,
+    "codigo_pdf": "0424",
+    "todos_codigos_pdf": "0424",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 425,
+    "numero": "56985376063",
+    "parcela": 240,
+    "codigo_pdf": "0425",
+    "todos_codigos_pdf": "0425",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 426,
+    "numero": "56977996128",
+    "parcela": 147,
+    "codigo_pdf": "0426",
+    "todos_codigos_pdf": "0426",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 427,
+    "numero": "56959088828",
+    "parcela": 140,
+    "codigo_pdf": "0427",
+    "todos_codigos_pdf": "0427",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 428,
+    "numero": "56946118617",
+    "parcela": 140,
+    "codigo_pdf": "0428",
+    "todos_codigos_pdf": "0428",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 429,
+    "numero": "56936867415",
+    "parcela": 255,
+    "codigo_pdf": "0429",
+    "todos_codigos_pdf": "0429, 0205",
+    "notas": "Multiples codigos en PDF; Coincide"
+  },
+  {
+    "orden": 1006,
+    "numero": "56998740181",
+    "parcela": 1111,
+    "codigo_pdf": "1006",
+    "todos_codigos_pdf": "1006",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 1007,
+    "numero": "56959868315",
+    "parcela": 1111,
+    "codigo_pdf": "1007",
+    "todos_codigos_pdf": "1007",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 1008,
+    "numero": "56940994400",
+    "parcela": 1111,
+    "codigo_pdf": "1008",
+    "todos_codigos_pdf": "1008",
+    "notas": "Coincide"
+  },
+  {
+    "orden": 1009,
+    "numero": "56995043352",
+    "parcela": 1111,
+    "codigo_pdf": "1009",
+    "todos_codigos_pdf": "1009",
+    "notas": "Coincide"
+  }
+]
